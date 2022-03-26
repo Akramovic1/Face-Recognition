@@ -1,5 +1,5 @@
 # Face Recognition
-With face detection, you can get the information you need to perform tasks like embellishing selfies and portraits, or generating avatars from a user's photo. Because ML Kit can perform face detection in real time, you can use it in applications like video chat or games that respond to the player's expressions.
+With face detection, you can get the information you need to perform tasks like embellishing selfies and portraits, or generating avatars from a user's photo.
 
 ## Methods of Face Recognition
  - PCA
